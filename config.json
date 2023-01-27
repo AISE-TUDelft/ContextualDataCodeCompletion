@@ -1,0 +1,12 @@
+{
+  "DATA_FOLDER": "./data",
+  "ALLOWED_CPUS": 1,
+  "LINE_MASK_CHANCE": 0.4,
+  "DATASET_SPLIT": {
+    "TRAIN": 0.8,
+    "TEST": 0.1,
+    "DEV": 0.1
+  },
+  "RANDOM_SEED": 42,
+  "NUM_MARKERS": 15
+}
