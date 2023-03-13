@@ -10,6 +10,10 @@ pip install -r requirements.txt
 npm install
 ```
 
+## Dataset
+The dataset can be retrieved from [Zenodo](https://doi.org/10.5281/zenodo.7553738). The dataset should be extracted to the `./data` folder of this repository.
+
+
 ## Replication
 
 The two main files to run for replication are `create-datasets.sh` and `evaluate.sh`.
